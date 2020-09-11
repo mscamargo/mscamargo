@@ -8,7 +8,7 @@
 #### You can find me on
 [![Linkedin: mscamargo](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mscamargo/)](https://www.linkedin.com/in/mscamargo/)
 [![Twitter: mscamargo_dev](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/mscamargo_dev)](https://twitter.com/mscamargo_dev)
-[![E-mail: mscamargo.dev@gmail.com](https://img.shields.io/badge/-E--mail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mscamargo.dev@gmail.com)](mailto:mscamargo.dev@gmail.com)
+[![Medium: @mscamargo](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@mscamargo)](https://medium.com/@mscamargo)
 [![HackerRank: mscamargo_dev](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/mscamargo)](https://www.hackerrank.com/mscamargo)
 
 #### What I'm working on now

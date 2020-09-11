@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/-Work%20in%20progress...-blue)
 
-💻 Backend Developer at [Compasso UOL](https://compasso.com.br/) <br>
+💻 Back-end Developer at [Compasso UOL](https://compasso.com.br/) <br>
 🚀 Co-Founder and CTO of the [Mapa Biográfico](https://mapabiografico.com.br/)
 
 #### You can find me on

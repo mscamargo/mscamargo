@@ -10,6 +10,7 @@
 [![Medium: @mscamargo](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@mscamargo)](https://medium.com/@mscamargo)
 [![HackerRank: mscamargo_dev](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/mscamargo)](https://www.hackerrank.com/mscamargo)
 
+<!--
 #### What I'm working on now
 - [Lucky Patrons](https://github.com/mscamargo/lucky-patrons) - A multiplayer game built in Next.js
 
@@ -19,7 +20,7 @@
 #### What I'm learning
 - [ ] TODO
 
-<!--
+
 **mscamargo/mscamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

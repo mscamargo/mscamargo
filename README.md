@@ -1,3 +1,9 @@
 think twice, code once.
 
 [![Linkedin: mscamargo](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mscamargo/)](https://www.linkedin.com/in/mscamargo/)
+
+[![website](https://img.shields.io/badge/website-mscamargo.dev-3291ff?style=for-the-badge&labelColor=26272b&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3NDcgNzQ3Ij48cGF0aCBmaWxsPSIjZjVmNWY2IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyMjAuNSA1NDkpIHNjYWxlKDEgLTEpIiBkPSJNODAgMzY5TDgwIDUwOUwyMjYgNTA5TDIyNiAzNjlaTTg5IC0xNThMMTQxIDBMODAgMEw4MCAxNDBMMjI2IDE0MEwyMjYgMTZMMTYwIC0xNThaIi8%2BPC9zdmc%2B)](https://mscamargo.dev)
+
+[![mscamargo.dev](https://img.shields.io/badge/mscamargo.dev-26272b?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3NDcgNzQ3Ij48cGF0aCBmaWxsPSIjZjVmNWY2IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyMjAuNSA1NDkpIHNjYWxlKDEgLTEpIiBkPSJNODAgMzY5TDgwIDUwOUwyMjYgNTA5TDIyNiAzNjlaTTg5IC0xNThMMTQxIDBMODAgMEw4MCAxNDBMMjI2IDE0MEwyMjYgMTZMMTYwIC0xNThaIi8%2BPC9zdmc%2B)](https://mscamargo.dev)
+
+[![website](https://img.shields.io/badge/website-mscamargo.dev-3291ff?labelColor=26272b&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3NDcgNzQ3Ij48cGF0aCBmaWxsPSIjZjVmNWY2IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyMjAuNSA1NDkpIHNjYWxlKDEgLTEpIiBkPSJNODAgMzY5TDgwIDUwOUwyMjYgNTA5TDIyNiAzNjlaTTg5IC0xNThMMTQxIDBMODAgMEw4MCAxNDBMMjI2IDE0MEwyMjYgMTZMMTYwIC0xNThaIi8%2BPC9zdmc%2B)](https://mscamargo.dev)
